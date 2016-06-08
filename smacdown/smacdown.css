@@ -1,0 +1,64 @@
+/* zarah custom css */
+
+#nav-logo {
+    margin-top: -15px;
+}
+
+#header-logo {
+    width: 700px;
+    margin-left: -80px;
+}
+
+#modal-pih {
+    width: 550px;
+}
+
+#modal-woman {
+    width: 550px;
+    margin-left: 5px;
+}
+
+
+.col-md-6 {
+  /*height: 300px;*/
+  /*width: 500px;*/
+  border: none;
+  /*margin-bottom: 30px;*/
+}
+
+#mac_daddy {
+  /*width: 500px;
+  height: 300px;*/
+}
+
+.yelp-item {
+  padding-bottom: 60px;
+  /*height: 300px;*/
+  position: relative;
+}
+
+#events {
+  margin-top: 50px;
+}
+
+/*.info-box {
+  border:#000 1px solid;
+    width:555px;
+    height:100px;
+  position: absolute;
+}*/
+
+.hours {
+  margin-left: 20px;
+  margin-top: -20px;
+}
+
+
+
+
+
+/*#info-box {
+  height: 20px;
+  width: 525px;
+  background-color: #000;
+}*/
